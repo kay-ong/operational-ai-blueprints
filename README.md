@@ -9,7 +9,7 @@
 This repository serves as a verified, public schema library for automated back-office logic. It moves past consumer-facing chatbot conversational traps to demonstrate structural middleware integrations and persistent background processing engines.
 
 ### Core Assets
-* [Multi-Agent Exception Handling Blueprint](./multi-agent-exception-handling.md): A full structural diagram demonstrating stateless algorithmic personas collaborating via strict confidence loops to patch ERP mutation variances autonomously.
+* [Multi-Agent Exception Handling Blueprint](https://github.com/kay-ong/operational-ai-blueprints/blob/main/the-agentic-supply-chain.md): A full structural diagram demonstrating stateless algorithmic personas collaborating via strict confidence loops to patch ERP mutation variances autonomously.
 
 ---
 
