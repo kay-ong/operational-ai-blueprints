@@ -1,3 +1,14 @@
+# Multi-Agent Orchestration (MAO) Pipeline Schema
+
+This blueprint maps the deterministic routing and confidence thresholds of an event-driven exception handling engine inside a mid-market supply chain pipeline.
+
+```mermaid
+%%{init: {
+'theme': 'base',
+'themeVariables': {
+'lineColor': '#64748B'
+}
+}}%%
 graph TD
 %% Define Styles
 classDef inputs fill:#161F30,stroke:#24324D,stroke-width:2px,color:#fff;
@@ -19,3 +30,4 @@ classDef agent3 fill:#10B981,stroke:#059669,stroke-width:2px,color:#fff;
     class B,C agent1;
     class E,F agent2;
     class G,I agent3;
+```
